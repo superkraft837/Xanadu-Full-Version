@@ -239,4 +239,4 @@ This repository serves as the official landing page for Xanadu. The software is 
 **Get the most recent version of Xanadu today!**
 
 ---
-**Last updated:** 2026-10-17 17:47:07 UTC
+**Last updated:** 2026-10-17 20:06:14 UTC
